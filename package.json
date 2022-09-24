@@ -1,0 +1,22 @@
+{
+  "name": "portfolio_generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taholton748/Portfolio_generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taholton748/Portfolio_generator/issues"
+  },
+  "homepage": "https://github.com/taholton748/Portfolio_generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
